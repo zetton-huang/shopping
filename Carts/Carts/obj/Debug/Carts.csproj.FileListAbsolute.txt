@@ -1,0 +1,1174 @@
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Carts.dll.config
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Carts.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Carts.pdb
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\csc.exe
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\csc.exe.config
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\csc.rsp
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\csi.exe
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\csi.exe.config
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\csi.rsp
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\System.AppContext.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\System.Console.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.Compression.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Claims.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\System.ValueTuple.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\vbc.exe
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\vbc.exe.config
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\vbc.rsp
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\VBCSCompiler.exe
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Antlr3.Runtime.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\EntityFramework.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Newtonsoft.Json.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Owin.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\System.Web.Helpers.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\System.Web.Mvc.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\System.Web.Optimization.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\System.Web.Razor.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Razor.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\WebGrease.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\System.Web.Helpers.xml
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\System.Web.Mvc.xml
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\System.Web.Optimization.xml
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\System.Web.Razor.xml
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.xml
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Razor.xml
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Newtonsoft.Json.xml
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Antlr3.Runtime.pdb
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\EntityFramework.xml
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.xml
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.xml
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\obj\Debug\Carts.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\obj\Debug\Carts.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\obj\Debug\Carts.csproj.CopyComplete
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\obj\Debug\Carts.dll
+C:\Users\MSI\Desktop\咖啡購物網\Carts\Carts\obj\Debug\Carts.pdb
+C:\Users\Admin\Desktop\005\咖啡購物網\Carts\Carts\obj\Debug\Carts.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\005\咖啡購物網\Carts\Carts\obj\Debug\Carts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\005\咖啡購物網\Carts\Carts\obj\Debug\Carts.dll
+C:\Users\Admin\Desktop\005\咖啡購物網\Carts\Carts\obj\Debug\Carts.pdb
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\obj\Debug\Carts.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\obj\Debug\Carts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\obj\Debug\Carts.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\obj\Debug\Carts.pdb
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Carts.dll.config
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Carts.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Carts.pdb
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Owin.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\WebGrease.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Admin\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\obj\Debug\Carts.csproj.CopyComplete
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Carts.dll.config
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Carts.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Carts.pdb
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\csc.exe
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\csc.exe.config
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\csc.rsp
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\csi.exe
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\csi.exe.config
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\csi.rsp
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.AppContext.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Console.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.Compression.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Claims.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.ValueTuple.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\vbc.exe
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\vbc.exe.config
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\vbc.rsp
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\VBCSCompiler.exe
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Antlr3.Runtime.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\EntityFramework.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Newtonsoft.Json.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Owin.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.Helpers.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.Mvc.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.Optimization.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.Razor.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Razor.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\WebGrease.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.Helpers.xml
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.Mvc.xml
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.Optimization.xml
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.Razor.xml
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.xml
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Razor.xml
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Newtonsoft.Json.xml
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Antlr3.Runtime.pdb
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\EntityFramework.xml
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.xml
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.xml
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\obj\Debug\Carts.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\obj\Debug\Carts.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\obj\Debug\Carts.csproj.CopyComplete
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\obj\Debug\Carts.dll
+C:\Users\MSI\Desktop\上台使用\02_黃裕文\咖啡購物網\Carts\Carts\obj\Debug\Carts.pdb
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Carts.dll.config
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Carts.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Carts.pdb
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\csc.exe
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\csc.exe.config
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\csc.rsp
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\csi.exe
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\csi.exe.config
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\csi.rsp
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\System.AppContext.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\System.Console.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.Compression.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Claims.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\System.ValueTuple.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\vbc.exe
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\vbc.exe.config
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\vbc.rsp
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\VBCSCompiler.exe
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Antlr3.Runtime.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\EntityFramework.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Newtonsoft.Json.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Owin.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\System.Web.Helpers.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\System.Web.Mvc.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\System.Web.Optimization.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\System.Web.Razor.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Razor.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\WebGrease.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\System.Web.Helpers.xml
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\System.Web.Mvc.xml
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\System.Web.Optimization.xml
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\System.Web.Razor.xml
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.xml
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Razor.xml
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Newtonsoft.Json.xml
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Antlr3.Runtime.pdb
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\EntityFramework.xml
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.xml
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.xml
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\obj\Debug\Carts.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\obj\Debug\Carts.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\obj\Debug\Carts.csproj.CopyComplete
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\obj\Debug\Carts.dll
+C:\Users\MSI\Desktop\96\咖啡購物網\Carts\Carts\obj\Debug\Carts.pdb
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Carts.dll.config
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Carts.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Carts.pdb
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\csc.exe
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\csc.exe.config
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\csc.rsp
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\csi.exe
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\csi.exe.config
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\csi.rsp
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\System.AppContext.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Console.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.Compression.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Claims.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\System.ValueTuple.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\vbc.exe
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\vbc.exe.config
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\vbc.rsp
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\VBCSCompiler.exe
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Antlr3.Runtime.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\EntityFramework.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Newtonsoft.Json.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Owin.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\System.Web.Helpers.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\System.Web.Mvc.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\System.Web.Optimization.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\System.Web.Razor.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Razor.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\WebGrease.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\System.Web.Helpers.xml
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\System.Web.Mvc.xml
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\System.Web.Optimization.xml
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\System.Web.Razor.xml
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.xml
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Razor.xml
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Newtonsoft.Json.xml
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Antlr3.Runtime.pdb
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\EntityFramework.xml
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.xml
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.xml
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\obj\Debug\Carts.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\obj\Debug\Carts.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\obj\Debug\Carts.csproj.CopyComplete
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\obj\Debug\Carts.dll
+C:\Users\MSI\Desktop\99\咖啡購物網\Carts\Carts\obj\Debug\Carts.pdb
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Carts.dll.config
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Carts.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Carts.pdb
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Owin.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\WebGrease.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\obj\Debug\Carts.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\obj\Debug\Carts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\obj\Debug\Carts.csproj.CopyComplete
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\obj\Debug\Carts.dll
+C:\Users\Admin\Desktop\0116\99\咖啡購物網\Carts\Carts\obj\Debug\Carts.pdb
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Carts.dll.config
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Carts.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Carts.pdb
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Owin.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\WebGrease.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\obj\Debug\Carts.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\obj\Debug\Carts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\obj\Debug\Carts.csproj.CopyComplete
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\obj\Debug\Carts.dll
+C:\Users\Admin\Desktop\TEST99\99\咖啡購物網\Carts\Carts\obj\Debug\Carts.pdb
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Carts.dll.config
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Carts.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Carts.pdb
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\csc.exe
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\csc.exe.config
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\csc.rsp
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\csi.exe
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\csi.exe.config
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\csi.rsp
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.AppContext.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Collections.Immutable.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Console.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.IO.Compression.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.IO.FileSystem.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.IO.Pipes.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Security.AccessControl.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Security.Claims.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.ValueTuple.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Xml.XPath.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\vbc.exe
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\vbc.exe.config
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\vbc.rsp
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\VBCSCompiler.exe
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\roslyn\VBCSCompiler.exe.config
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Antlr3.Runtime.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\EntityFramework.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\EntityFramework.SqlServer.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.Google.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Web.Infrastructure.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Newtonsoft.Json.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Owin.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\System.Web.Helpers.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\System.Web.Mvc.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\System.Web.Optimization.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\System.Web.Razor.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\System.Web.WebPages.Deployment.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\System.Web.WebPages.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\System.Web.WebPages.Razor.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\WebGrease.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\System.Web.Helpers.xml
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\System.Web.Mvc.xml
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\System.Web.Optimization.xml
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\System.Web.Razor.xml
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\System.Web.WebPages.xml
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\System.Web.WebPages.Deployment.xml
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\System.Web.WebPages.Razor.xml
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Newtonsoft.Json.xml
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Antlr3.Runtime.pdb
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\EntityFramework.xml
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\EntityFramework.SqlServer.xml
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.xml
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.xml
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.Google.xml
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\zh-Hant\EntityFramework.resources.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\obj\Debug\Carts.csprojAssemblyReference.cache
+C:\Public\02_黃裕文\Demo\Carts\Carts\obj\Debug\Carts.csproj.CoreCompileInputs.cache
+C:\Public\02_黃裕文\Demo\Carts\Carts\obj\Debug\Carts.csproj.CopyComplete
+C:\Public\02_黃裕文\Demo\Carts\Carts\obj\Debug\Carts.dll
+C:\Public\02_黃裕文\Demo\Carts\Carts\obj\Debug\Carts.pdb
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Carts.dll.config
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Carts.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Carts.pdb
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Owin.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\WebGrease.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\obj\Debug\Carts.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\obj\Debug\Carts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\obj\Debug\Carts.csproj.CopyComplete
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\obj\Debug\Carts.dll
+C:\Users\Admin\Desktop\New folder (2)\02_黃裕文\Demo\Carts\Carts\obj\Debug\Carts.pdb
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Carts.dll.config
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Carts.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Carts.pdb
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\csc.exe
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\csc.exe.config
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\csc.rsp
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\csi.exe
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\csi.exe.config
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\csi.rsp
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\System.AppContext.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\System.Collections.Immutable.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\System.Console.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\System.IO.Compression.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\System.IO.FileSystem.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\System.IO.Pipes.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\System.Security.AccessControl.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\System.Security.Claims.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\System.ValueTuple.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\System.Xml.XPath.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\vbc.exe
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\vbc.exe.config
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\vbc.rsp
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\VBCSCompiler.exe
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\roslyn\VBCSCompiler.exe.config
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Antlr3.Runtime.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\EntityFramework.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\EntityFramework.SqlServer.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.Owin.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.Owin.Security.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.Owin.Security.Google.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.Web.Infrastructure.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Newtonsoft.Json.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Owin.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\System.Web.Helpers.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\System.Web.Mvc.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\System.Web.Optimization.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\System.Web.Razor.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\System.Web.WebPages.Deployment.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\System.Web.WebPages.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\System.Web.WebPages.Razor.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\WebGrease.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\System.Web.Helpers.xml
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\System.Web.Mvc.xml
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\System.Web.Optimization.xml
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\System.Web.Razor.xml
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\System.Web.WebPages.xml
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\System.Web.WebPages.Deployment.xml
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\System.Web.WebPages.Razor.xml
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Newtonsoft.Json.xml
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Antlr3.Runtime.pdb
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\EntityFramework.xml
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\EntityFramework.SqlServer.xml
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.Owin.xml
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.Owin.Security.xml
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.Owin.Security.Google.xml
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\zh-Hant\EntityFramework.resources.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\obj\Debug\Carts.csprojAssemblyReference.cache
+C:\Public\02_黃裕文\專題作品\Carts\Carts\obj\Debug\Carts.csproj.CoreCompileInputs.cache
+C:\Public\02_黃裕文\專題作品\Carts\Carts\obj\Debug\Carts.csproj.CopyComplete
+C:\Public\02_黃裕文\專題作品\Carts\Carts\obj\Debug\Carts.dll
+C:\Public\02_黃裕文\專題作品\Carts\Carts\obj\Debug\Carts.pdb

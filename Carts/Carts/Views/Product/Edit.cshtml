@@ -1,0 +1,87 @@
+﻿@model Carts.Models.Product
+@{
+                /**/
+
+                ViewBag.Title = "Edit";
+                Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+    <link href="~/Content/site.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <h1>Opera Edit</h1>
+        @using (Html.BeginForm())
+        {
+            @Html.HiddenFor(m => m.Id)
+            @Html.ValidationSummary()
+        <fieldset>
+            <legend>Coffee</legend>
+            <div>@Html.LabelFor(m => m.Name)</div>
+            <div>
+                @Html.EditorFor(m => m.Name)
+                @Html.ValidationMessageFor(m => m.Name, "*")
+            </div>
+            <div>@Html.LabelFor(m => m.Description)</div>
+            <div>
+                @Html.EditorFor(m => m.Description)
+                @Html.ValidationMessageFor(m => m.Description, "*")
+            </div>
+            <div>@Html.LabelFor(m => m.CategoryId)</div>
+            <div>
+                @Html.EditorFor(m => m.CategoryId)
+                @Html.ValidationMessageFor(m => m.CategoryId, "*")
+            </div>
+            <div>@Html.LabelFor(m => m.Price)</div>
+            <div>
+                @Html.EditorFor(m => m.Price)
+                @Html.ValidationMessageFor(m => m.Price, "*")
+            </div>
+            <div>@Html.LabelFor(m => m.PublishDate)</div>
+            <div>
+                @Html.EditorFor(m => m.PublishDate)
+                @Html.ValidationMessageFor(m => m.PublishDate, "*")
+            </div>
+            <div>@Html.LabelFor(m => m.Status)</div>
+            <div>
+                @Html.EditorFor(m => m.Status)
+                @Html.ValidationMessageFor(m => m.Status, "*")
+            </div>
+            <div>@Html.LabelFor(m => m.DefaultImageId)</div>
+            <div>
+                @Html.EditorFor(m => m.DefaultImageId)
+                @Html.ValidationMessageFor(m => m.DefaultImageId, "*")
+            </div>
+            <div>@Html.LabelFor(m => m.Quantity)</div>
+            <div>
+                @Html.EditorFor(m => m.Quantity)
+                @Html.ValidationMessageFor(m => m.Quantity, "*")
+            </div>
+            <div>@Html.LabelFor(m => m.DefaultImageURL)</div>
+            <div>
+                @Html.EditorFor(m => m.DefaultImageURL)
+                @Html.ValidationMessageFor(m => m.DefaultImageURL, "*")
+            </div>
+            <div>
+                <input type="submit" value="Save" />
+            </div>
+        </fieldset>
+        }
+        <p>
+            @Html.ActionLink("back to list", "Index")
+        </p>
+
+    </div>
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+</body>
+</html>
+
